@@ -4,3 +4,4 @@ function solution(my_string) {
     .sort((a, b) => (a < b ? -1 : a > b ? 1 : 0))
     .join("");
 }
+// localeCompare
